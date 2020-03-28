@@ -215,6 +215,7 @@ header {
 	padding-left: 3%;
 	text-decoration: underline;
 	line-height: 150%;
+	cursor: pointer;
 }
 .full-info {
 	flex: 0.97;
